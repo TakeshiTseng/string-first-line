@@ -1,0 +1,23 @@
+{
+  "name": "string-first-line",
+  "version": "1.0.0",
+  "description": "Get first line from string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TakeshiTseng/string-first-line.git"
+  },
+  "keywords": [
+    "string",
+    "firstline"
+  ],
+  "author": "Yi Tseng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TakeshiTseng/string-first-line/issues"
+  },
+  "homepage": "https://github.com/TakeshiTseng/string-first-line#readme"
+}
