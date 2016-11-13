@@ -1,5 +1,6 @@
 string-first-line
 ====
+[![Build Status](https://travis-ci.org/TakeshiTseng/string-first-line.svg?branch=master)](https://travis-ci.org/TakeshiTseng/string-first-line)
 
 Get first line from string
 
