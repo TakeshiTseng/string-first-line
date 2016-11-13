@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/TakeshiTseng/string-first-line/issues"
   },
-  "homepage": "https://github.com/TakeshiTseng/string-first-line#readme"
+  "homepage": "https://github.com/TakeshiTseng/string-first-line#readme",
+  "dependencies": {
+    "string-lines": "^1.0.0"
+  }
 }
