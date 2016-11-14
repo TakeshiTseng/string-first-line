@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/TakeshiTseng/string-first-line.git"
+    "url": "git+ssh://git@github.com/UselessNodePackages/string-first-line.git"
   },
   "keywords": [
     "string",
@@ -17,9 +17,9 @@
   "author": "Yi Tseng",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TakeshiTseng/string-first-line/issues"
+    "url": "https://github.com/UselessNodePackages/string-first-line/issues"
   },
-  "homepage": "https://github.com/TakeshiTseng/string-first-line#readme",
+  "homepage": "https://github.com/UselessNodePackages/string-first-line#readme",
   "dependencies": {
     "string-lines": "^1.0.0"
   }
