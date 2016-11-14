@@ -1,6 +1,6 @@
 {
   "name": "string-first-line",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get first line from string",
   "main": "index.js",
   "scripts": {
